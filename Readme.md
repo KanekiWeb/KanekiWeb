@@ -1,7 +1,8 @@
 <a href="https://discord.gg/QB628am" target="_blank" rel="nofollow"><img align="right" alt="NTZ Server" width="22px" src="https://www.jing.fm/clipimg/full/243-2438094_discord-svg-chat-transparent-background-discord-logo-transparent.png" /></a>
 ---  
-👋 Welcome to my Profile bro !
-
+<p align="center">
+ ##👋 Welcome to my Profile bro !
+</p>
 -----  
 <details open> 
  <summary>🤖 <b>My programming stats</b>: </summary>
