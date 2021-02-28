@@ -3,7 +3,8 @@
 <p align="center">
  <b>👋 Welcome to my Profile bro !</b>
 </p>
------  
+
+----  
 <details open> 
  <summary>🤖 <b>My programming stats</b>: </summary>
 <br>
