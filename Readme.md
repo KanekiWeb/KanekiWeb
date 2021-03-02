@@ -30,6 +30,10 @@
 🔸 > C++ (learning)
 ```
 
+![GitHub followers](https://img.shields.io/github/followers/KanekiX2?style=social)
+![](https://img.shields.io/github/stars/KanekiX2?style=social)
+![](https://komarev.com/ghpvc/?username=KanekiX2&color=blue)
+
 <!--END_SECTION:waka-->
 </details>
 ---
