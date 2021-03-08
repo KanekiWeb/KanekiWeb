@@ -1,4 +1,4 @@
-<a href="https://discord.gg/QB628am" target="_blank" rel="nofollow"><img align="right" alt="NTZ Server" width="22px" src="https://www.jing.fm/clipimg/full/243-2438094_discord-svg-chat-transparent-background-discord-logo-transparent.png" /></a>
+<a href="https://discord.gg/vGKQs4Cczy" target="_blank" rel="nofollow"><img align="right" alt="NTZ Server" width="22px" src="https://www.jing.fm/clipimg/full/243-2438094_discord-svg-chat-transparent-background-discord-logo-transparent.png" /></a>
 ---  
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px"><b> Welcome to my Profile bro !</b>
 
