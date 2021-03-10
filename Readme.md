@@ -8,13 +8,12 @@
   <a href="https://github.com/KanekiX2">Github</a>
 </p>
 
------  
+----  
 
 - 🚀 > French Python developper.  
 - 💻 > Passionate about Threat-Intelligence, Osint, Exploit.  
 - 📂 > Work on Mirage osint project
-  
---  
+ 
   
   
   
