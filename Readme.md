@@ -13,12 +13,11 @@
 - 🚀 > French Python developper.  
 - 💻 > Passionate about Threat-Intelligence, Osint, Exploit.  
 
----  
 ## 🏮 My favorites Langages  
 
-🐍 Python
-🌐 Html / Css / Js / Php
-🌌 Csharp
+🐍 Python  
+🌐 Html / Css / Js / Php  
+🌌 Csharp  
 
 🔸 Lua (learning)
 🔸 C++ (learning)
