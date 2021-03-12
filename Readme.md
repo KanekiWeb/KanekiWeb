@@ -18,7 +18,7 @@
   
   
 <p align='center'>
-  <br><br><b>Stats:</b><br><br>
+  <br><br><b>📡 Stats:</b><br><br>
   <img src="https://img.shields.io/badge/%3C%2F%3E%20Github%20By-Kaneki-red">
   <img src="https://img.shields.io/github/followers/KanekiX2?style=flat-square">
   <img src="https://img.shields.io/github/stars/KanekiX2?style=flat-square">
