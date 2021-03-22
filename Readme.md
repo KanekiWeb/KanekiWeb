@@ -11,8 +11,7 @@
 ----  
 
 - 🚀 > French Python developper.  
-- 💻 > Passionate about Threat-Intelligence, Osint, Exploit.  
-- 📂 > Work on Mirage osint project
+- 💻 > Passionate about Hacking, Osint, Exploit.
  
   
   
