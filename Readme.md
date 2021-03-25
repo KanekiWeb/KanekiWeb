@@ -27,5 +27,5 @@
 
 <p align="center"> 
   Compteur de visites :<br>
-  <img src="https://profile-counter.glitch.me/4x31on1337/count.svg" />
+  <img src="https://profile-counter.glitch.me/KanekiX2/count.svg" />
 </p>
