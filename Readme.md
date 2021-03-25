@@ -24,3 +24,8 @@
   <img src="https://komarev.com/ghpvc/?username=KanekiX2&color=blue"><br><br>
   <img src = "https://github-readme-stats.vercel.app/api?username=KanekiX2&show_icons=true&theme=synthwave&line_height=22">
 </p>
+
+<p align="center"> 
+  Compteur de visites :<br>
+  <img src="https://profile-counter.glitch.me/4x31on1337/count.svg" />
+</p>
