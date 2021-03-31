@@ -13,7 +13,7 @@
 - 🚀 > French Python developper.  
 - 💻 > Passionate about Hacking, Osint, Exploit.
 
-- 🌙 > My Discord Server : [https://discord.gg/kaneki](https://discord.gg/kaneki)
+- 🌙 > My Discord Server : [https://discord.gg/kaneki](https://discord.gg/kjdsvNqJff)
  
   
   
