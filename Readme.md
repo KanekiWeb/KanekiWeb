@@ -18,7 +18,15 @@ Contact me:
 - Discord: `Kaneki VØID#9999`
 - Server: [`discord.gg/kaneki`](https://discord.gg/gzEvEC4wXh)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanekix2&show_icons=true&theme=synthwave&line_height=22" alt="kanekix2" /></p>    
+<br><br>
+<p align="center">
+	<b>My Github Stats</b><br>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kanekix2&show_icons=true&theme=synthwave&line_height=22" alt="kanekix2" />
+</p>
+
+
+<p>&nbsp;</p>    
+
 ---  
 
 <p align="center"> 
