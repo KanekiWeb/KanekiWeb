@@ -15,7 +15,7 @@
 
 Contact me:
 - Email: `kaneki_pro@protonmail.com`
-- Discord: `Kaneki VØID#9999`
+- Discord: `Kaneki#8888`
 - Server: [`discord.gg/kaneki`](https://discord.gg/gzEvEC4wXh)
 
 <br><br>
