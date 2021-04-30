@@ -1,6 +1,6 @@
 <p align='center'>
   <b>Hi 👋, I'm Kaneki</b><br>
-  <a href="https://discord.gg/5bKTQXBjqG">Discord</a> |
+  <a href="https://discord.gg/bdUM6SbEpJ">Discord</a> |
   <a href="https://www.youtube.com/channel/UC-XII5SSqbMOF1UX3N0Gl8g">YouTube</a> |
   <a href="https://github.com/KanekiX2">Github</a>
 </p>
@@ -21,8 +21,8 @@
 
 Contact me:
 - Email: `kaneki_pro@protonmail.com`
-- Discord: `Kaneki#8888`
-- Server: [`discord.gg/kaneki`](https://discord.gg/gzEvEC4wXh)
+- Discord: `Kaneki SΛD#8888`
+- Server: [`discord.gg/kaneki`](https://discord.gg/bdUM6SbEpJ)
 
 <br><br>
 <p align="center">
