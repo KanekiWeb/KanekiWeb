@@ -5,6 +5,12 @@
   <a href="https://github.com/KanekiX2">Github</a>
 </p>
 
+<p align="center"><br>
+  <a href="https://github.com/KanekiX2">
+    <img src="https://discord.c99.nl/widget/theme-4/789071575420370975.png"/>
+     </a>
+</p>
+
 --- 
 
 
