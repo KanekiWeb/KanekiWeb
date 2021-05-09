@@ -15,7 +15,7 @@
 
 
 - 🐍 > French python devloper
-- 🔭 > Currently working on Discord Osint & VOID Bot
+- 🔭 > Currently working on nothing...
 - ❤️ > Passionate of Exploit, Osint, Hacking etc...
 
 
