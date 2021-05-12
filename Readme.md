@@ -2,7 +2,9 @@
   <b>Hi 👋, I'm Kaneki</b><br>
   <a href="https://discord.gg/bdUM6SbEpJ">Discord</a> |
   <a href="https://www.youtube.com/channel/UC-XII5SSqbMOF1UX3N0Gl8g">YouTube</a> |
-  <a href="https://github.com/KanekiX2">Github</a>
+  <a href="https://github.com/KanekiX2">Github</a> |
+  <a href="https://twitter.com/Kaneki_Web">Twitter</a> |
+  <a href="https://codepen.io/kanekix2">Code Pen</a>
 </p>
 
 <p align="center"><br>
