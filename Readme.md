@@ -12,19 +12,6 @@
      </a>
 </p>
 
---- 
-
-
-- 🐍 > French python and web devloper
-- 🔭 > Currently working on multiproxies.com
-- ❤️ > Passionate of Exploit, Osint, Hacking etc...
-
-
-Contact me:
-- Email: `kaneki_pro@protonmail.com`
-- Discord: `Kaneki SΛD#8888`
-- Server: <p><a href="https://discord.gg/bdUM6SbEpJ" target="_blank" rel="nofollow noopener"><img src="https://discordapp.com/api/guilds/814113746947538974/widget.png?style=banner2" alt="Discord" /></a></p>
-
 <br><br>
 <p align="center">
 	<b>Language</b>
