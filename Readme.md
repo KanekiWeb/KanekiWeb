@@ -38,3 +38,4 @@
   Compteur de visites :<br>
   <img src="https://profile-counter.glitch.me/KanekiWeb/count.svg" />
 </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanekiweb" alt="kanekiweb" /></a> </p>
