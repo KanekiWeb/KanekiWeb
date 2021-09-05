@@ -8,7 +8,7 @@
 
 <p align="center"><br>
   <a href="https://github.com/KanekiX2">
-    <img src="https://discord.c99.nl/widget/theme-4/789071575420370975.png"/>
+    <img src="https://lanyard-profile-readme.vercel.app/api/789071575420370975"/>
      </a>
 </p>
 
