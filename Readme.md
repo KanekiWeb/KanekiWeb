@@ -8,7 +8,7 @@
 
 <p align="center"><br>
   <a href="https://github.com/KanekiWeb">
-    <img src="https://lanyard-profile-readme.vercel.app/api/841283872917422121"/>
+    <img src="https://lanyard-profile-readme.vercel.app/api/922450497074495539"/>
      </a>
 </p>
 
