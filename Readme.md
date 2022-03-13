@@ -12,7 +12,8 @@ class KanekiWeb(ReadmeProfile):
         self.Username = "KanekiWeb"
         self.Contacts = {
             "Discord": "Pαrαdox#1337",
-            "Youtube": "Kaneki Web"
+            "Youtube": "Kaneki Web",
+	    "Telegram": "t.me/PDXCommunity",
         }
         self.Alias = {
             "KanekiWeb",
