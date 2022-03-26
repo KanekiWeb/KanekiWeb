@@ -36,7 +36,7 @@ class KanekiWeb(ReadmeProfile):
 ```
 
 <p align="center">
-	<img src="https://lanyard-profile-readme.vercel.app/api/922450497074495539"/>
+	<img src="https://lanyard-profile-readme.vercel.app/api/922450497074495539?hideTimestamp=true&idleMessage=Freelance%20and%20Self-Taught%20Developer.&hideBadges=true"/>
 <!-- 	<br>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=KanekiWeb&theme=dark&hide_border=true">
 	<br>
