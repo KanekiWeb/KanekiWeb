@@ -4,35 +4,25 @@
 
 -->
 
-```py
-from Github.Readme import ReadmeProfile
+```css
+[paradox@archlinux ~]$ neofetch
 
-class KanekiWeb(ReadmeProfile):
-    def __init__(self):
-        self.Username = "KanekiWeb"
-        self.Contacts = {
-            "Discord": "Pαrαdox#1337",
-            "Youtube": "Kaneki Web",
-	    "Telegram": "t.me/PDXCommunity",
-        }
-        self.Alias = {
-            "KanekiWeb",
-            "Paradox"
-        }
-        self.Infos = """
-            Hey, my name is KanekiWeb, 15 years old and I develop in my spare time, currently learning Golang.
-        """        
-        self.Knowledge = {
-            "Web": {
-                "Html", "Css", "Javascript", "Php", "Sql"
-            },
-            "Basic": {
-                "Python", "Csharp", "Nodejs"
-            },
-            "Learning": {
-                "Golang", "C++"
-            }
-        }
+                    -@                    paradox@archlinux
+                   .##@                   -----------------
+                  .####@                  Username: Kaneki Web
+                  @#####@                 Alias: Kaneki, Paradox
+                . *######@                Discord: https://discord.gg/BTdFXbZ9t7
+               .##@o@#####@               Website: https://kanekiweb.tk/
+              /############@            
+             /##############@             paradox@archlinux
+            @######@**%######@            -----------------
+           @######`     %#####o           Frontend: 7/10
+          @######@       ######%          Backend: 6/1O
+        -@#######h       ######@.`        Python: 8/10
+       /#####h**``       `**%@####@       CSharp: 5/10
+      @H@*`                    `*%#@    
+     *`                            `*     Infos: 16yo Freelance and self-taught developer, founder of Coding-Services.
+
 ```
 
 <p align="center">
