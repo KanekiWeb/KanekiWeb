@@ -26,7 +26,7 @@
 ```
 
 <p align="center">
-	<img src="https://lanyard-profile-readme.vercel.app/api/957329295603269652?hideTimestamp=true&idleMessage=Freelance%20and%20Self-Taught%20Developer.&hideBadges=true"/>
+	<img src="https://lanyard-profile-readme.vercel.app/api/420525168381657090?hideTimestamp=true&idleMessage=Freelance%20and%20Self-Taught%20Developer.&hideBadges=true"/>
 <!-- 	<br>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=KanekiWeb&theme=dark&hide_border=true">
 	<br>
